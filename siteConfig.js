@@ -1,5 +1,5 @@
 module.exports = {
-  siteUrl: "https://ghost-balsa-preview.draftbox.co",
+  siteUrl: "https://pascalandy.com/jamstack",
   postsPerPage: 12,
   siteTitleMeta: "Built with Draftbox",
   siteDescriptionMeta:
@@ -10,12 +10,12 @@ module.exports = {
   siteIcon: "favicon.png",
   backgroundColor: "#e9e9e9",
   themeColor: "#15171A",
-  apiUrl: "https://ghost.theasdfghjkl.com",
+  apiUrl: "http://localhost:2368",
   header: {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-balsa-preview.draftbox.co/",
+        url: "https://pascalandy.com/jamstack",
       },
       {
         label: "Contact",
@@ -28,19 +28,19 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-balsa-preview.draftbox.co/",
+        url: "https://pascalandy.com/jamstack",
       },
       {
         label: "Sitemap",
-        url: "https://ghost-balsa-preview.draftbox.co/sitemap.xml",
+        url: "https://pascalandy.com/jamstack/sitemap.xml",
       },
       {
         label: "RSS",
-        url: "https://ghost-balsa-preview.draftbox.co/rss.xml",
+        url: "https://pascalandy.com/jamstack/rss.xml",
       },
       {
         label: "Contact",
-        url: "https://ghost-balsa-preview.draftbox.co/contact",
+        url: "https://pascalandy.com/jamstack/contact",
       },
       {
         label: "External Link",
